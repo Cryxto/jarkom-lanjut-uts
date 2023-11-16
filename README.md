@@ -16,6 +16,10 @@
 ## Metode yang Digunakan
 Dynamic routing menggunakan OSPF
 
+## Test Port Forwarding
+- Laptop Y Bagas sebagai host Nginx
+- Laptop Luri dan Fajar melakukan forward dari Laptop Y Bagas dengan port yang berbeda
+
 ## Gambaran Implementasi Studi Kasus
 <div align="center">
   <img src="./klmpok-4.drawio.png" style="border: 15px solid white;">
